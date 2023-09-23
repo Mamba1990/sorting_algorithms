@@ -1,5 +1,4 @@
 #include "sort.h"
-
 /**
  * swapInts - Swaps 2 integers in an array.
  * @n1: 1st integer to swap.
